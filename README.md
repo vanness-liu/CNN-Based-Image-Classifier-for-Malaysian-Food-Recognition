@@ -1,8 +1,8 @@
 # CNN-Based Image Classifier for Malaysian Food Recognition 🍛
 
 **Course:** WID3011 - Deep Learning
-**Author:** Vanness Liu Chuen Wei  
-**Matric Number:** 23005021
+**Author:** Vanness Liu Chuen Wei  <br>
+**Matric Number:** 23005021 <br>
 **Occ:** 1
 
 ## 📌 Project Overview
