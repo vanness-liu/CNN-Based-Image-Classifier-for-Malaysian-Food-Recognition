@@ -1,7 +1,9 @@
-# CNN-Based Image Classifier for Malaysian Product Recognition 🍛
+# CNN-Based Image Classifier for Malaysian Food Recognition 🍛
 
-**Course:** WID3011 - Deep Learning (Universiti Malaya)  
+**Course:** WID3011 - Deep Learning
 **Author:** Vanness Liu Chuen Wei  
+**Matric Number:** 23005021
+**Occ:** 1
 
 ## 📌 Project Overview
 This project implements a Convolutional Neural Network (CNN) pipeline to classify 6 categories of traditional Malaysian food/products. The objective is to evaluate the feature extraction capabilities of a scratch-built 4-layer CNN against a fine-tuned, pre-trained **ResNet-50** architecture, simulating a commercial deployment scenario for Malaysian SMEs (e.g., Automated Smart Billing Kiosks).
