@@ -1,0 +1,12 @@
+# Ignore datasets and heavy model files
+my_dataset/
+master_dataset/
+final_dataset/
+*.pth
+*.zip
+
+.DS_Store
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
